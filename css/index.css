@@ -1,0 +1,22 @@
+p.especial {
+  border: 3px solid limegreen;
+  padding: 10px;
+  background:url("/imagens/fundo.png");
+}
+
+q, blockquote {
+  font-style: italic;
+}
+
+blockquote {
+  margin-left: 60px;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 8px solid limegreen;
+  border-radius: 5px;
+}
