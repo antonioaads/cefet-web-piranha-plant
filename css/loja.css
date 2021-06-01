@@ -1,5 +1,5 @@
 body {
-  background:url("/imagens/desenho-loucao.jpg");
+  background: url("../imagens/desenho-loucao.jpg");
   background-size: cover;
   background-attachment: fixed;
 }

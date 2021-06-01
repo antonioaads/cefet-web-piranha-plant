@@ -1,7 +1,7 @@
 p.especial {
   border: 3px solid limegreen;
   padding: 10px;
-  background:url("/imagens/fundo.png");
+  background: url("../imagens/fundo.png");
 }
 
 q, blockquote {
